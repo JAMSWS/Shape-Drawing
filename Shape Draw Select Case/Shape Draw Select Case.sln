@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Shape Draw Select Case", "Shape Draw Select Case.vbproj", "{30616180-1C1A-4114-9D7B-9ABA2CEE77DA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{08B14674-3E24-430B-8C67-E1FEFEA43F2E}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30616180-1C1A-4114-9D7B-9ABA2CEE77DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30616180-1C1A-4114-9D7B-9ABA2CEE77DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30616180-1C1A-4114-9D7B-9ABA2CEE77DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30616180-1C1A-4114-9D7B-9ABA2CEE77DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99B0BFB1-446E-4E81-A51D-065BA915343A}
+	EndGlobalSection
+EndGlobal

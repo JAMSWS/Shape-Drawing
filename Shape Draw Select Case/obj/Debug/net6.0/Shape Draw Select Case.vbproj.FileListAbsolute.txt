@@ -1,0 +1,15 @@
+C:\Users\trjnz\Desktop\2nd yr College Activity\OBJECT ORIENTED PROGRAM\Gagawin ProgramShapeDrawing\Select Case Gagawin\Shape Draw Select Case\bin\Debug\net6.0\Shape Draw Select Case.exe
+C:\Users\trjnz\Desktop\2nd yr College Activity\OBJECT ORIENTED PROGRAM\Gagawin ProgramShapeDrawing\Select Case Gagawin\Shape Draw Select Case\bin\Debug\net6.0\Shape Draw Select Case.deps.json
+C:\Users\trjnz\Desktop\2nd yr College Activity\OBJECT ORIENTED PROGRAM\Gagawin ProgramShapeDrawing\Select Case Gagawin\Shape Draw Select Case\bin\Debug\net6.0\Shape Draw Select Case.runtimeconfig.json
+C:\Users\trjnz\Desktop\2nd yr College Activity\OBJECT ORIENTED PROGRAM\Gagawin ProgramShapeDrawing\Select Case Gagawin\Shape Draw Select Case\bin\Debug\net6.0\Shape Draw Select Case.dll
+C:\Users\trjnz\Desktop\2nd yr College Activity\OBJECT ORIENTED PROGRAM\Gagawin ProgramShapeDrawing\Select Case Gagawin\Shape Draw Select Case\bin\Debug\net6.0\Shape Draw Select Case.pdb
+C:\Users\trjnz\Desktop\2nd yr College Activity\OBJECT ORIENTED PROGRAM\Gagawin ProgramShapeDrawing\Select Case Gagawin\Shape Draw Select Case\obj\Debug\net6.0\Shape Draw Select Case.vbproj.AssemblyReference.cache
+C:\Users\trjnz\Desktop\2nd yr College Activity\OBJECT ORIENTED PROGRAM\Gagawin ProgramShapeDrawing\Select Case Gagawin\Shape Draw Select Case\obj\Debug\net6.0\Shape Draw Select Case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trjnz\Desktop\2nd yr College Activity\OBJECT ORIENTED PROGRAM\Gagawin ProgramShapeDrawing\Select Case Gagawin\Shape Draw Select Case\obj\Debug\net6.0\Shape Draw Select Case.AssemblyInfoInputs.cache
+C:\Users\trjnz\Desktop\2nd yr College Activity\OBJECT ORIENTED PROGRAM\Gagawin ProgramShapeDrawing\Select Case Gagawin\Shape Draw Select Case\obj\Debug\net6.0\Shape Draw Select Case.AssemblyInfo.vb
+C:\Users\trjnz\Desktop\2nd yr College Activity\OBJECT ORIENTED PROGRAM\Gagawin ProgramShapeDrawing\Select Case Gagawin\Shape Draw Select Case\obj\Debug\net6.0\Shape Draw Select Case.vbproj.CoreCompileInputs.cache
+C:\Users\trjnz\Desktop\2nd yr College Activity\OBJECT ORIENTED PROGRAM\Gagawin ProgramShapeDrawing\Select Case Gagawin\Shape Draw Select Case\obj\Debug\net6.0\Shape Draw Select Case.dll
+C:\Users\trjnz\Desktop\2nd yr College Activity\OBJECT ORIENTED PROGRAM\Gagawin ProgramShapeDrawing\Select Case Gagawin\Shape Draw Select Case\obj\Debug\net6.0\refint\Shape Draw Select Case.dll
+C:\Users\trjnz\Desktop\2nd yr College Activity\OBJECT ORIENTED PROGRAM\Gagawin ProgramShapeDrawing\Select Case Gagawin\Shape Draw Select Case\obj\Debug\net6.0\Shape Draw Select Case.pdb
+C:\Users\trjnz\Desktop\2nd yr College Activity\OBJECT ORIENTED PROGRAM\Gagawin ProgramShapeDrawing\Select Case Gagawin\Shape Draw Select Case\obj\Debug\net6.0\Shape Draw Select Case.genruntimeconfig.cache
+C:\Users\trjnz\Desktop\2nd yr College Activity\OBJECT ORIENTED PROGRAM\Gagawin ProgramShapeDrawing\Select Case Gagawin\Shape Draw Select Case\obj\Debug\net6.0\ref\Shape Draw Select Case.dll
